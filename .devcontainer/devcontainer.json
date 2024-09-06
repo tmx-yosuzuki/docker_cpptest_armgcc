@@ -1,0 +1,6 @@
+{
+    "name": "cpptest_armgcc", //
+    "build": {
+        "dockerfile": "./Dockerfile"
+    }
+}
