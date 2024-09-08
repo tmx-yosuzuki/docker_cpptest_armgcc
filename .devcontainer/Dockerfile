@@ -6,7 +6,7 @@ RUN apt-get update
 # 必要なツールのインストール
 
 # ARMコンパイラ 
-RUN apt-get install -y gcc-arm-linux-gnueabi
+RUN apt-get install -y g++-arm-linux-gnueabi
 
 # QEMU
 RUN apt-get install -y qemu-user-static

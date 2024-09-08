@@ -1,0 +1,7 @@
+{
+    "cpptest.workingDirectory": "${workspaceFolder}/MyApplication",
+    "cpptest.compilerIdentifier": "arm_linux_gnueabi-gcc9",
+    "cpptest.commandLinePattern": "cpptestcli ${stopFile} ${compilerConfig} ${testConfig} ${reportDir} ${selectedFiles} -module . -trace make clean all --cpptesttraceTraceCommand=arm-linux-gnueabi-g* -J-Duser.language=ja -J-Duser.country=JP" ,
+    "cpptest.testConfiguration": "builtin://Recommended Rules",
+    "cpptest.installationLocation": "/opt/cpptest",
+}
