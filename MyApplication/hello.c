@@ -1,15 +1,16 @@
 #include <stdio.h>
-int add(int a, int b);
-void func();
+//int add(int a, int b);
+//void func();
 
-int main()
+
+void main()
 {
     printf("Hello, world!\n");
 }
 
 
 
-
+#if 0
 void func()
 {
     if (add(100, 100) > 0)
@@ -26,4 +27,5 @@ int add(int a, int b)
 {
     return a + b;
 }
+#endif
 
