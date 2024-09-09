@@ -34,3 +34,5 @@
 
 # Cpptest cache folder
 .cpptest
+reports
+~

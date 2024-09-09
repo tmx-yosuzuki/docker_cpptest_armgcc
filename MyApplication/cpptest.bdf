@@ -1,0 +1,10 @@
+------- cpptestscan v.10.6.3.20240229B3924 (cpptesttrace) -------
+working_dir=/workspaces/docker_cpptest_armgcc/MyApplication
+project_name=MyApplication
+arg=arm-linux-gnueabi-gcc
+arg=-static
+arg=-g
+arg=-I.
+arg=-o
+arg=hello.deb
+arg=hello.c
