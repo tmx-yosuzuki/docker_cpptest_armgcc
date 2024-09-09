@@ -5,9 +5,10 @@ void func();
 int main()
 {
     printf("Hello, world!\n");
-    
-    func();
 }
+
+
+
 
 void func()
 {
